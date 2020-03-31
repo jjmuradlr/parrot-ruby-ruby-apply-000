@@ -4,4 +4,4 @@
 def parrot (birds, go, Squawk!)
 end
 
-parrot
+parrot (2)
