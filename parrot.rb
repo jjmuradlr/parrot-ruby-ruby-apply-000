@@ -2,6 +2,4 @@
 # returns the phrase
 
 def parrot (Squak!)
-  puts phrase
-  phrase
-end
+  
